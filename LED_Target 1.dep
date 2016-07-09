@@ -1,0 +1,32 @@
+Dependencies for Project 'LED', Target 'Target 1': (DO NOT MODIFY !)
+F (.\led.c)(0x577364D9)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\inc -I.\inc\STM32F4xx_HAL_Driver\Inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I C:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\1.0.5\Device\Include-DSTM32F429X -o .\objects\led.o --omf_browse .\objects\led.crf --depend .\objects\led.d)
+I (F:\Devlopment\Embeded\arm\inc\stm32f4xx.h)(0x57728799)
+I (F:\Devlopment\Embeded\arm\inc\stm32f429xx.h)(0x572C28D6)
+I (F:\Devlopment\Embeded\arm\inc\core_cm4.h)(0x573C6266)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7DA6C)
+I (F:\Devlopment\Embeded\arm\inc\core_cmInstr.h)(0x573C6264)
+I (F:\Devlopment\Embeded\arm\inc\core_cmFunc.h)(0x573C6264)
+I (F:\Devlopment\Embeded\arm\inc\core_cmSimd.h)(0x573C6264)
+I (C:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\1.0.5\Device\Include\system_stm32f4xx.h)(0x51AEC94A)
+I (F:\Devlopment\Embeded\arm\inc\stm32f4xx_rcc.h)(0x573ED8BA)
+I (F:\Devlopment\Embeded\arm\inc\stm32f4xx_gpio.h)(0x573ED8BA)
+I (F:\Devlopment\Embeded\arm\inc\stm32f4xx_usart.h)(0x573ED8B4)
+F (.\system_stm32f4xx.c)(0x574C0376)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\inc -I.\inc\STM32F4xx_HAL_Driver\Inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I C:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\1.0.5\Device\Include-DSTM32F429X -o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (F:\Devlopment\Embeded\arm\inc\stm32f4xx.h)(0x57728799)
+I (F:\Devlopment\Embeded\arm\inc\stm32f429xx.h)(0x572C28D6)
+I (F:\Devlopment\Embeded\arm\inc\core_cm4.h)(0x573C6266)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7DA6C)
+I (F:\Devlopment\Embeded\arm\inc\core_cmInstr.h)(0x573C6264)
+I (F:\Devlopment\Embeded\arm\inc\core_cmFunc.h)(0x573C6264)
+I (F:\Devlopment\Embeded\arm\inc\core_cmSimd.h)(0x573C6264)
+I (C:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\1.0.5\Device\Include\system_stm32f4xx.h)(0x51AEC94A)
+F (.\startup_stm32f429xx.s)(0x574C0376)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-I C:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\1.0.5\Device\Include--list .\listings\startup_stm32f429xx.lst --xref -o .\objects\startup_stm32f429xx.o --depend .\objects\startup_stm32f429xx.d)
+F (.\inc\stm32f4xx_usart.h)(0x573ED8B4)()
+F (.\inc\core_cm4.h)(0x573C6266)()
+F (.\inc\core_cmFunc.h)(0x573C6264)()
+F (.\inc\core_cmInstr.h)(0x573C6264)()
+F (.\inc\core_cmSimd.h)(0x573C6264)()
+F (.\inc\stm32f4xx.h)(0x57728799)()
+F (.\inc\stm32f4xx_gpio.h)(0x573ED8BA)()
+F (.\inc\stm32f4xx_rcc.h)(0x573ED8BA)()
+F (.\inc\stm32f4xx_usart.h)(0x573ED8B4)()
